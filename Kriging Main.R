@@ -1,5 +1,5 @@
 rm(list = ls())
-source("interpo_2.R")
+source("Kriging function.R")
 
 
 nug_a1 = 0.2
